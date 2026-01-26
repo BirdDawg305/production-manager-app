@@ -39,7 +39,12 @@ The app is offered in three tiers to suit different team sizes and reporting nee
 
 All versions are distributed via Gumroad. License keys are unique per purchase and required to unlock the app.
 
-👉 [View all versions and purchase on Gumroad](https://yourgumroadpage.com)
+👉 [View all versions and purchase on Gumroad]
+Basic version: https://automateai56.gumroad.com/l/bxuzj?_gl=1*1fu2g0l*_ga*MjAxMzkzNDAxNy4xNzUzMTMzODY2*_ga_6LJN6D94N6*czE3NTMxMzM4NjYkbzEkZzEkdDE3NTMxMzM5MzQkajU3JGwwJGgw
+
+Pro version: https://automateai56.gumroad.com/l/exuvt
+
+Enterprise version: https://automateai56.gumroad.com/l/gnaqy
 
 ## 📁 This Repo
 
